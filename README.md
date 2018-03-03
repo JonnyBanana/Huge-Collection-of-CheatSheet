@@ -7,7 +7,7 @@ Share of my Huge Collection of Cheatsheet, ENJOY IT!
 
 
 
-![Alt text](https://i.imgur.com/Vmtk5Fl.gif "Huge CheatSheet Collection JonnyBanana" style="float:left")
+![Alt text](https://i.imgur.com/Vmtk5Fl.gif "Huge CheatSheet Collection JonnyBanana")
 
 
 
