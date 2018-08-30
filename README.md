@@ -43,6 +43,5 @@ Complete Photo Album Here: https://imgur.com/a/RWmds
 
 The collection includes hundreds of files, and sometimes i update it, </BR>
 so anyone interested can check the original repo here:</BR>
-
 https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet/
 
