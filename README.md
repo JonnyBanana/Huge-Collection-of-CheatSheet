@@ -41,7 +41,7 @@ Complete Photo Album Here: https://imgur.com/a/RWmds
 
 ![Alt text](https://i.imgur.com/RX1vBsY.png "Huge CheatSheet Collection JonnyBanana")
 
-The collection includes hundreds of files, and sometimes I update it, 
+The collection includes hundreds of files, and sometimes I update it, </BR>
 so anyone interested can check the original repo here:
 https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet/
 
