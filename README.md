@@ -41,6 +41,10 @@ Complete Photo Album Here: https://imgur.com/a/RWmds
 
 ![Alt text](https://i.imgur.com/RX1vBsY.png "Huge CheatSheet Collection JonnyBanana")
 
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Huge-Collection-of-CheatSheet/master/Easter%20egg's/proxy.png "Huge CheatSheet Collection JonnyBanana")
+
+
+
 The collection includes hundreds of files, and sometimes i update it, </BR>
 so anyone interested can check the original repo here:</BR>
 https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet
