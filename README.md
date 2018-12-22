@@ -11,7 +11,7 @@ Share of my Huge Collection of Cheatsheet, ENJOY IT!
 
 
 
-Complete Photo Album Here: https://imgur.com/a/RWmds
+Photo Album (incomplete)Here: https://imgur.com/a/RWmds
 
 </br>
 
