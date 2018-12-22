@@ -10,6 +10,8 @@ Share of my Huge Collection of Cheatsheet, ENJOY IT!
 ![Alt text](https://i.imgur.com/Vmtk5Fl.gif "Huge CheatSheet Collection JonnyBanana")
 
 
+ :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket: :rocket:
+ 
 
 Photo Album (incomplete)Here: https://imgur.com/a/RWmds
 
