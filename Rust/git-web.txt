@@ -1,0 +1,7 @@
+https://lukaslueg.github.io/macro_railroad_wasm_demo/
+
+https://danielkeep.github.io/itercheat_baked.html
+
+http://overapi.com/rust
+
+https://daily-rust.github.io/2016/05/05/cheatsheet.html
