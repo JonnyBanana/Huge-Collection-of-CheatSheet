@@ -1,12 +1,12 @@
 # Huge Collection of CheatSheet
 
 
-<h4>Share of my Huge Collection of Cheatsheet, ENJOY IT!</h4>
+<h4>Share of my Huge Collection of Cheatsheet, ENJOY IT!</h4> <BR>
 
 
-“Huge-Collection-of-CheatSheet is being sponsored by the following tool; 
+Huge-Collection-of-CheatSheet is being sponsored by the following tool; 
 
-please help to support us by taking a look and signing up to a free trial”
+please help to support us by taking a look and signing up to a free trial
 
 <a href="https://tracking.gitads.io/?repo=Huge-Collection-of-CheatSheet"> <img src="https://images.gitads.io/Huge-Collection-of-CheatSheet" alt="GitAds"/> </a>
 
