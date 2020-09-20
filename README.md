@@ -70,3 +70,9 @@ https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet
 
 18/06/2019 03:46 am (gmt+1)
 
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
