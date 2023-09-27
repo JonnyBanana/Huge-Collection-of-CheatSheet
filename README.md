@@ -22,12 +22,9 @@ Photo Album (incomplete)Here: https://imgur.com/a/RWmds
 
 </br>
 
-Did you know that the first programming language was invented in about 1837?
+Did you know that the first programming language was invented in about 1837? </br>
 
-</br>
-
-
-Timeline of programming languages </br>
+<b>Timeline of programming languages</b> </br>
 
 https://en.wikipedia.org/wiki/Timeline_of_programming_languages
 
@@ -74,7 +71,7 @@ https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet
 </BR>
 
 <h3>Last Update</h3>
-10/10/2022
+27/09/2023
 
 </BR>
 
