@@ -21,7 +21,7 @@ Huge-Collection-of-CheatSheet is being sponsored by the following tool;
 Photo Album (incomplete)Here: https://imgur.com/a/RWmds
 
 </br>
-____________________________________________________________________________</br>
+____________________________________________________________________________
 Did you know that the first programming language was invented in about 1837? </br>
 
 <b>Timeline of programming languages</b> </br>
