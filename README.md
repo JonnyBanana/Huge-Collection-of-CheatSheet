@@ -22,6 +22,18 @@ Photo Album (incomplete)Here: https://imgur.com/a/RWmds
 
 </br>
 
+Did you know that the first programming language was invented in about 1837?
+
+</br>
+
+
+Timeline of programming languages </br>
+
+https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+
+</br>
+
+
 ![Alt text](https://i.imgur.com/OoY1sKh.png "Huge CheatSheet Collection JonnyBanana")
 
 ![Alt text](https://i.imgur.com/lidFJdK.jpg "Huge CheatSheet Collection JonnyBanana")
