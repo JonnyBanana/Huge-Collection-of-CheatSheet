@@ -28,7 +28,7 @@ Did you know that the first programming language was invented in about 1837? </b
 
 https://en.wikipedia.org/wiki/Timeline_of_programming_languages
 
-</br>
+</br></br>
 
 
 ![Alt text](https://i.imgur.com/OoY1sKh.png "Huge CheatSheet Collection JonnyBanana")
